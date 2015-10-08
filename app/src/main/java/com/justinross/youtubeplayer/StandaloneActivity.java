@@ -12,9 +12,9 @@ import android.widget.Toast;
 import com.google.android.youtube.player.YouTubeStandalonePlayer;
 
 public class StandaloneActivity extends AppCompatActivity implements View.OnClickListener {
-    private String GOOGLE_API_KEY = "AIzaSyDtpl0n1RYgZ8RWLJPzYoKZBsQnwA4ON8o";
-    private String YOUTUBE_VIDEO_ID = "xgG4IKGkXyE";
-    private String YOUTUBE_PLAYLIST_ID = "PLXKzE7TFJIaxdT5TJ2QA_zrSwcnMc-tqY";
+    private String GOOGLE_API_KEY = "";
+    private String YOUTUBE_VIDEO_ID = "";
+    private String YOUTUBE_PLAYLIST_ID = "";
 
     private Button btnPlayVideo;
     private Button btnPlaylist;
